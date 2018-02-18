@@ -15,8 +15,8 @@ Simple API with swagger support to implement:
 
 # Usage
 
-Run server (with reload support) using: `sbt '~;jetty:stop;jetty:start'`
-Run tests using: `sbt test`
+* Run server (with reload support) using: `sbt '~;jetty:stop;jetty:start'`
+* Run tests using: `sbt test`
 
 ## FizzBuzz API Examples
 
